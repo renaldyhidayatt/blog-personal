@@ -10,6 +10,7 @@ published: true
 # Jawaban Jaringan komputer
 
 1.192.168.10.1/30
+s
 NetMask: 255.255.255.252 <br />
 Broadcast: 192.168.10.255 <br />
 Binary: 11111111 11111111 11111111 11111100
