@@ -7,6 +7,7 @@ const BGImage = ({ fluid, title, className, children }) => {
     <Wrapper>
       <WrapperBGImage title={title} fluid={fluid} />
       <Content className={className}>{children}</Content>
+
     </Wrapper>
   )
 }
